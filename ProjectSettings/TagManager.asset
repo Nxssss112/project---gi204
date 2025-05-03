@@ -7,6 +7,9 @@ TagManager:
   - Ground
   - Pass
   - bush
+  - Projectile
+  - Enemy
+  - Win
   layers:
   - Default
   - TransparentFX
